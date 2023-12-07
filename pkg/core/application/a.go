@@ -2,6 +2,10 @@ package application
 
 import "fmt"
 
-func gg() {
+func Info() {
+	fmt.Println(123213)
+}
+
+func Game() {
 	fmt.Println(123213)
 }
